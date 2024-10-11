@@ -1,1 +1,2 @@
 # tarjetas-de-crediro
+El proyecto consiste en el análisis de un conjunto de datos que contiene información sobre transacciones financieras, incluyendo detalles sobre los clientes, los comerciantes, y la ubicación de las transacciones. Este conjunto de datos, que consta de 1,296,675 entradas, se ha recopilado con el fin de identificar patrones de comportamiento en las transacciones y detectar posibles fraudes.
