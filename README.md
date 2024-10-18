@@ -28,11 +28,11 @@ Este proyecto consiste en el análisis de un conjunto de datos que contiene info
 - **Plotly**: Utilizada para crear gráficos interactivos que mejoran la visualización de los resultados.
 - **SciPy**: cluster.hierarchy: Métodos para la agrupación jerárquica.
 - **Scikit-learn**:
-- model_selection: Herramientas para dividir los datos en conjuntos de entrenamiento y prueba.
-- preprocessing: Funciones para escalar y transformar datos.
-- linear_model: Modelos de regresión lineal para predicciones.
-- ensemble: Métodos para combinar varios modelos.
-- metrics: Métricas para evaluar el rendimiento del modelo.
+- Model_selection: Herramientas para dividir los datos en conjuntos de entrenamiento y prueba.
+- Preprocessing: Funciones para escalar y transformar datos.
+- Linear_model: Modelos de regresión lineal para predicciones.
+- Ensemble: Métodos para combinar varios modelos.
+- Metrics: Métricas para evaluar el rendimiento del modelo.
 
 
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
